@@ -1,0 +1,12 @@
+{
+    "name": "michau85/cars",
+    "description": "cars",
+    "authors": [
+        {
+            "name": "majk",
+            "email": "majk19@tlen.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
